@@ -1,0 +1,4 @@
+{
+    "MONGODB_SERVER":"mongodb://localhost:27017/product-management",
+    "PORT": "5004"
+}
